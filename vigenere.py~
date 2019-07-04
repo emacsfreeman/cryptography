@@ -52,7 +52,3 @@ while True:
     print("Vérification")
     L = dechiffrement_vigenere(V, C)
     print("Mot déchiffré :", liste_devient_mot(L, alphabet))
-
-    continuer = input("Voulez-vous continuer ? (o/n) ")
-    if continuer == "n" or continuer == "N":
-        break
