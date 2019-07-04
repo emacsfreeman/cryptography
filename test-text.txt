@@ -1,0 +1,5 @@
+Bonjour Pierre. Comment allez-vous ?
+Bonjour Paul. Je vais très bien merci. Et vous-même ?
+Bonjour Paul, bonjour Pierre. Comment allez-vous ?
+Bonjour Jacques. Nous allons bien merci et vous ? Comment va Marie ?
+Je vais très bien et ma femme également merci.

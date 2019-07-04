@@ -31,7 +31,7 @@ def liste_devient_mot(liste, alphabet):
     return mot
 
 # tests
-alphabet = "abcdefghijklmnopqrstuvwxyz "
+alphabet = "abcdefghijklmnopqrstuvwxyz"
 
 while True:
     mot = input("Choisir le mot initial (uniquement en minuscules) à chiffrer : ")
